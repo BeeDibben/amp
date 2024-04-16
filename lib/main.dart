@@ -20,7 +20,7 @@ class AMP extends StatelessWidget{
       themeMode: ThemeMode.system, // When the app opens checks the default system colour scheme (light mode vs dark mode) and sets the app to it
       theme: lightMode,
       darkTheme: darkMode,
-      home: const home(),
+      home: const Home(),
     );
   }
 }
