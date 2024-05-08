@@ -1,30 +1,9 @@
 # amp
 
-A new Flutter project.
+This project is to be a music player that will take your current geographical location, and play music based on your location.
 
-## Getting Started
+You can set the mood for anywhere in the world with your specific music tastes.
 
-This project is a starting point for a Flutter application that follows the
-[simple app state management
-tutorial](https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple).
+# Testing
 
-For help getting started with Flutter development, view the
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Assets
-
-The `assets` directory houses images, fonts, and any other files you want to
-include with your application.
-
-The `assets/images` directory contains [resolution-aware
-images](https://flutter.dev/docs/development/ui/assets-and-images#resolution-aware).
-
-## Localization
-
-This project generates localized messages based on arb files found in
-the `lib/src/localization` directory.
-
-To support additional languages, please visit the tutorial on
-[Internationalizing Flutter
-apps](https://flutter.dev/docs/development/accessibility-and-localization/internationalization)
+Ensure you have a suitable emulator attached to your VS Code. I reccomend Android iOS Emulator v1.6.0 by Diemas Michiels.
